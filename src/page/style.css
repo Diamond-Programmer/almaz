@@ -43,7 +43,9 @@ body {
   @media (max-width: 480px){
     .panel::before{
         font-size: 80px;
-        margin: 0px 100px ;
+        margin: 0px 80px ;
+        width: auto;
+
     }
 }
   
